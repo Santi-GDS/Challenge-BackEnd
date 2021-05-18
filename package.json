@@ -1,0 +1,23 @@
+{
+  "name": "challenge-be",
+  "version": "1.0.0",
+  "description": "Back End Challenge for Alkemy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santi-GDS/Challenge-BackEnd.git"
+  },
+  "author": "Santiago Garcia De Stefano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santi-GDS/Challenge-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Santi-GDS/Challenge-BackEnd#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
